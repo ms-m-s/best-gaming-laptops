@@ -1,4 +1,3 @@
-import 'bootstrap'
 // fetch('http://localhost:3000')
 fetch('https://gaming-laptops-api.herokuapp.com/')
   .then(response => response.json())
